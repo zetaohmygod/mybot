@@ -1,0 +1,21 @@
+{
+    "token": "MTM0OTc4MjI5MjM2NDY2MDc0Ng.GzbsA_.4LK774KZRjn1NCjo0s5mjJOGeoCwugVXH_lAEk",
+    "phone": "0819714079",
+    "channelLog": "1349647861318549515",
+    "ownerId": "1293167529665236995",
+
+    "roleSettings": [
+        {
+            "roleId": "1347646841885556806",
+            "price": 10
+        },
+        {
+            "roleId": "1348023560547078305",
+            "price": 20
+        },
+        {
+            "roleId": "1346517397573603389",
+            "price": 40
+        }
+    ]
+}
